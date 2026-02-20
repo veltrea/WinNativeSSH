@@ -1,0 +1,5 @@
+{
+  "bind_addr": "0.0.0.0:2222",
+  "db_path": "winnative.db",
+  "host_key_path": "host_key.pem"
+}
